@@ -13,7 +13,7 @@ public class GFG {
     // Given K trials
     int MAX_ATTEMPTS = 10;
 
-    // Initialize the variable i
+    
     int i = 0;
     int points = 0;
 
