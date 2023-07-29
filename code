@@ -10,7 +10,7 @@ public class GFG {
     // Generate the numbers
     int number = 1 + (int)(100 * Math.random());
 
-    // Given K trials
+    // Given K trial
     int MAX_ATTEMPTS = 10;
 
     // Initialize the variable i
