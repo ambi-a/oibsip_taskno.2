@@ -1,5 +1,6 @@
 # oibsip_taskno.2
 Guessing Number Game:
+
 The "Guessing Number Game" is a simple Java console-based application that allows users to play a guessing game. The program generates a random number between 1 and 100 and challenges the player to guess the number within a limited number of attempts (default is 10). The player earns points by correctly guessing the number and can win the game if they guess it within the allowed attempts.
 
 
